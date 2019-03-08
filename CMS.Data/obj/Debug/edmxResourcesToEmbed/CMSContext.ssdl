@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CSIModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Cat_ID" />
+    </Key>
+    <Property Name="Cat_ID" Type="int" Nullable="false" />
+    <Property Name="Cat_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'CSI.dbo.City' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employee_Type">
+    <Key>
+      <PropertyRef Name="ET_ID" />
+    </Key>
+    <Property Name="ET_ID" Type="int" Nullable="false" />
+    <Property Name="ET_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Emp_ID" />
+    </Key>
+    <Property Name="Emp_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ET_ID" Type="int" Nullable="false" />
+    <Property Name="FName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="HireDate" Type="date" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Logging_Details">
+    <Key>
+      <PropertyRef Name="Sl" />
+    </Key>
+    <Property Name="Sl" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Id" Type="int" Nullable="false" />
+    <Property Name="User_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="User_Type" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sign_In_Time" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sign_Out_Type" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manager_details">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Postal_code" Type="int" />
+    <Property Name="Contact" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Commission" Type="int" />
+    <Property Name="Remarks" Type="varchar" MaxLength="200" />
+    <Property Name="Image" Type="image" />
+  </EntityType>
+  <EntityType Name="POS">
+    <Key>
+      <PropertyRef Name="sl" />
+    </Key>
+    <Property Name="sl" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="P_Id" Type="int" Nullable="false" />
+    <Property Name="P_Name" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="Total" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product_Details">
+    <Key>
+      <PropertyRef Name="P_ID" />
+    </Key>
+    <Property Name="P_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="P_Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="P_Category" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Purchase_Rate" Type="float" Nullable="false" />
+    <Property Name="Sales_Rate" Type="float" Nullable="false" />
+    <Property Name="Reorder_Point" Type="int" Nullable="false" />
+    <Property Name="Purchase_Unit" Type="int" Nullable="false" />
+    <Property Name="Stock" Type="int" Nullable="false" />
+    <Property Name="Image" Type="image" />
+  </EntityType>
+  <EntityType Name="Product_Order">
+    <Key>
+      <PropertyRef Name="PONo" />
+    </Key>
+    <Property Name="PONo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PODate" Type="varchar" MaxLength="50" />
+    <Property Name="SupplierId" Type="int" />
+    <Property Name="PName" Type="varchar" MaxLength="150" />
+    <Property Name="Quabtity" Type="int" />
+    <Property Name="PPU" Type="float" />
+    <Property Name="Discount" Type="int" />
+  </EntityType>
+  <EntityType Name="Purchase_Entry">
+    <Key>
+      <PropertyRef Name="PEId" />
+    </Key>
+    <Property Name="PEId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PONo" Type="int" Nullable="false" />
+    <Property Name="SupplierId" Type="int" Nullable="false" />
+    <Property Name="Paymet" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Purchase-Return">
+    <Key>
+      <PropertyRef Name="PRId" />
+    </Key>
+    <Property Name="PRId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PEId" Type="int" Nullable="false" />
+    <Property Name="ReturnQuantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sales_Details">
+    <Key>
+      <PropertyRef Name="Serial" />
+    </Key>
+    <Property Name="Serial" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Invoice_No" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pro_ID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Total" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Salesman_Details">
+    <Key>
+      <PropertyRef Name="Sal_ID" />
+    </Key>
+    <Property Name="Sal_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Postal_Code" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Contact_No" Type="nchar" MaxLength="14" Nullable="false" />
+    <Property Name="Email_ID" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Commission" Type="int" />
+    <Property Name="Remarks" Type="nchar" MaxLength="10" />
+    <Property Name="Image" Type="image" />
+  </EntityType>
+  <EntityType Name="Supplier_Details">
+    <Key>
+      <PropertyRef Name="S_ID" />
+    </Key>
+    <Property Name="S_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="S_Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Postal_Code" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Contact" Type="nchar" MaxLength="14" Nullable="false" />
+    <Property Name="Email_ID" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Remarks" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Acc_Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Acc_No" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Bank_Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Branch" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User_Details">
+    <Key>
+      <PropertyRef Name="U_ID" />
+    </Key>
+    <Property Name="U_ID" Type="int" Nullable="false" />
+    <Property Name="U_Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="User_Type" Type="int" Nullable="false" />
+    <Property Name="Image" Type="image" />
+  </EntityType>
+  <Association Name="FK_Employees_Employee_Type">
+    <End Role="Employee_Type" Type="Self.Employee_Type" Multiplicity="1" />
+    <End Role="Employees" Type="Self.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee_Type">
+        <PropertyRef Name="ET_ID" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="ET_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Purchase_Entry_Product_Order">
+    <End Role="Product_Order" Type="Self.Product_Order" Multiplicity="1" />
+    <End Role="Purchase_Entry" Type="Self.Purchase_Entry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product_Order">
+        <PropertyRef Name="PONo" />
+      </Principal>
+      <Dependent Role="Purchase_Entry">
+        <PropertyRef Name="PONo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Purchase-Return_Purchase_Entry">
+    <End Role="Purchase_Entry" Type="Self.Purchase_Entry" Multiplicity="1" />
+    <End Role="Purchase-Return" Type="Self.Purchase-Return" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Purchase_Entry">
+        <PropertyRef Name="PEId" />
+      </Principal>
+      <Dependent Role="Purchase-Return">
+        <PropertyRef Name="PEId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CSIModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee_Type" EntityType="Self.Employee_Type" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Logging_Details" EntityType="Self.Logging_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manager_details" EntityType="Self.Manager_details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="POS" EntityType="Self.POS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product_Details" EntityType="Self.Product_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product_Order" EntityType="Self.Product_Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Purchase_Entry" EntityType="Self.Purchase_Entry" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Purchase-Return" EntityType="Self.Purchase-Return" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sales_Details" EntityType="Self.Sales_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Salesman_Details" EntityType="Self.Salesman_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Supplier_Details" EntityType="Self.Supplier_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Details" EntityType="Self.User_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="City" EntityType="Self.City" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [City].[Name] AS [Name]
+    FROM [dbo].[City] AS [City]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Employees_Employee_Type" Association="Self.FK_Employees_Employee_Type">
+      <End Role="Employee_Type" EntitySet="Employee_Type" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Purchase_Entry_Product_Order" Association="Self.FK_Purchase_Entry_Product_Order">
+      <End Role="Product_Order" EntitySet="Product_Order" />
+      <End Role="Purchase_Entry" EntitySet="Purchase_Entry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Purchase-Return_Purchase_Entry" Association="Self.FK_Purchase-Return_Purchase_Entry">
+      <End Role="Purchase_Entry" EntitySet="Purchase_Entry" />
+      <End Role="Purchase-Return" EntitySet="Purchase-Return" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

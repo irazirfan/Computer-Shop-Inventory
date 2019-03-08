@@ -1,0 +1,46 @@
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csprojResolveAssemblyReference.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll.config
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CopyComplete
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll.config
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.xml
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CoreCompileInputs.cache
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CopyComplete
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.Data\obj\Debug\CMS.Data.csprojAssemblyReference.cache

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CSIModelStoreContainer" CdmEntityContainer="CMS_DBEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="CSIModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="Cat_Name" ColumnName="Cat_Name" />
+          <ScalarProperty Name="Cat_ID" ColumnName="Cat_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee_Type">
+      <EntityTypeMapping TypeName="CSIModel.Employee_Type">
+        <MappingFragment StoreEntitySet="Employee_Type">
+          <ScalarProperty Name="ET_Name" ColumnName="ET_Name" />
+          <ScalarProperty Name="ET_ID" ColumnName="ET_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="CSIModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="HireDate" ColumnName="HireDate" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="ET_ID" ColumnName="ET_ID" />
+          <ScalarProperty Name="Emp_ID" ColumnName="Emp_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logging_Details">
+      <EntityTypeMapping TypeName="CSIModel.Logging_Details">
+        <MappingFragment StoreEntitySet="Logging_Details">
+          <ScalarProperty Name="Sign_Out_Type" ColumnName="Sign_Out_Type" />
+          <ScalarProperty Name="Sign_In_Time" ColumnName="Sign_In_Time" />
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Sl" ColumnName="Sl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manager_details">
+      <EntityTypeMapping TypeName="CSIModel.Manager_details">
+        <MappingFragment StoreEntitySet="Manager_details">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="Commission" ColumnName="Commission" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Contact" ColumnName="Contact" />
+          <ScalarProperty Name="Postal_code" ColumnName="Postal_code" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="MName" ColumnName="MName" />
+          <ScalarProperty Name="MId" ColumnName="MId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="POS">
+      <EntityTypeMapping TypeName="CSIModel.POS">
+        <MappingFragment StoreEntitySet="POS">
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="P_Name" ColumnName="P_Name" />
+          <ScalarProperty Name="P_Id" ColumnName="P_Id" />
+          <ScalarProperty Name="sl" ColumnName="sl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product_Details">
+      <EntityTypeMapping TypeName="CSIModel.Product_Details">
+        <MappingFragment StoreEntitySet="Product_Details">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="Purchase_Unit" ColumnName="Purchase_Unit" />
+          <ScalarProperty Name="Reorder_Point" ColumnName="Reorder_Point" />
+          <ScalarProperty Name="Sales_Rate" ColumnName="Sales_Rate" />
+          <ScalarProperty Name="Purchase_Rate" ColumnName="Purchase_Rate" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="P_Category" ColumnName="P_Category" />
+          <ScalarProperty Name="P_Name" ColumnName="P_Name" />
+          <ScalarProperty Name="P_ID" ColumnName="P_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product_Order">
+      <EntityTypeMapping TypeName="CSIModel.Product_Order">
+        <MappingFragment StoreEntitySet="Product_Order">
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="PPU" ColumnName="PPU" />
+          <ScalarProperty Name="Quabtity" ColumnName="Quabtity" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="SupplierId" ColumnName="SupplierId" />
+          <ScalarProperty Name="PODate" ColumnName="PODate" />
+          <ScalarProperty Name="PONo" ColumnName="PONo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Purchase_Entry">
+      <EntityTypeMapping TypeName="CSIModel.Purchase_Entry">
+        <MappingFragment StoreEntitySet="Purchase_Entry">
+          <ScalarProperty Name="Paymet" ColumnName="Paymet" />
+          <ScalarProperty Name="SupplierId" ColumnName="SupplierId" />
+          <ScalarProperty Name="PONo" ColumnName="PONo" />
+          <ScalarProperty Name="PEId" ColumnName="PEId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Purchase_Return">
+      <EntityTypeMapping TypeName="CSIModel.Purchase_Return">
+        <MappingFragment StoreEntitySet="Purchase-Return">
+          <ScalarProperty Name="ReturnQuantity" ColumnName="ReturnQuantity" />
+          <ScalarProperty Name="PEId" ColumnName="PEId" />
+          <ScalarProperty Name="PRId" ColumnName="PRId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Salesman_Details">
+      <EntityTypeMapping TypeName="CSIModel.Salesman_Details">
+        <MappingFragment StoreEntitySet="Salesman_Details">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="Commission" ColumnName="Commission" />
+          <ScalarProperty Name="Email_ID" ColumnName="Email_ID" />
+          <ScalarProperty Name="Contact_No" ColumnName="Contact_No" />
+          <ScalarProperty Name="Postal_Code" ColumnName="Postal_Code" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Sal_ID" ColumnName="Sal_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Supplier_Details">
+      <EntityTypeMapping TypeName="CSIModel.Supplier_Details">
+        <MappingFragment StoreEntitySet="Supplier_Details">
+          <ScalarProperty Name="Branch" ColumnName="Branch" />
+          <ScalarProperty Name="Bank_Name" ColumnName="Bank_Name" />
+          <ScalarProperty Name="Acc_No" ColumnName="Acc_No" />
+          <ScalarProperty Name="Acc_Name" ColumnName="Acc_Name" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="Email_ID" ColumnName="Email_ID" />
+          <ScalarProperty Name="Contact" ColumnName="Contact" />
+          <ScalarProperty Name="Postal_Code" ColumnName="Postal_Code" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="S_Name" ColumnName="S_Name" />
+          <ScalarProperty Name="S_ID" ColumnName="S_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User_Details">
+      <EntityTypeMapping TypeName="CSIModel.User_Details">
+        <MappingFragment StoreEntitySet="User_Details">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="U_Name" ColumnName="U_Name" />
+          <ScalarProperty Name="U_ID" ColumnName="U_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cities">
+      <EntityTypeMapping TypeName="CSIModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales_Details">
+      <EntityTypeMapping TypeName="CSIModel.Sales_Details">
+        <MappingFragment StoreEntitySet="Sales_Details">
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Pro_ID" ColumnName="Pro_ID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Invoice_No" ColumnName="Invoice_No" />
+          <ScalarProperty Name="Serial" ColumnName="Serial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
