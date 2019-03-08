@@ -1,0 +1,57 @@
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\itextsharp.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CopyComplete
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll.config
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.xml
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CoreCompileInputs.cache
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CopyComplete
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\CMS.ServiceLayer\obj\Debug\CMS.ServiceLayer.csprojAssemblyReference.cache
