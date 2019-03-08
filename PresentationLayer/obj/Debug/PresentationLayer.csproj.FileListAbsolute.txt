@@ -1,0 +1,158 @@
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Design.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\itextsharp.dll
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ManagerDetails.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddProduct.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSalesman.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSupplier.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.DetailsProductOrder.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseOrder.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Home.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductReturn.resources
+C:\Users\hello\Downloads\Computer shop manage ment\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseEntry.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\itextsharp.dll
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddManager.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddProduct.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSalesman.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSupplier.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.DetailsProductOrder.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Home.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ManagerDetails.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductManager.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductReturn.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseEntry.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseOrder.resources
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Irazi\Downloads\Compressed\ComputerShopInventory\PresentationLayer\bin\Debug\SplashScreen.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Design.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Fonts.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\SplashScreen.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\itextsharp.dll
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll.config
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.xml
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddManager.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddProduct.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSalesman.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSupplier.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddUser.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AdminForm.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.DetailsProductOrder.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseEntry.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseReturn.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Home.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ManagerDetails.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductManager.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseOrder.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.SalesmanManager.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.SupplierManager.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.manifest
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.application
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe.manifest
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.application
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe.manifest
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.application
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Design.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\SplashScreen.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\itextsharp.dll
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.Data.dll.config
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\CMS.ServiceLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddProduct.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSalesman.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddSupplier.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AddUser.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.AdminForm.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.DetailsProductOrder.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseEntry.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseReturn.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Home.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ManagerDetails.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.ProductManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PurchaseOrder.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.SalesmanManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.SupplierManager.resources
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe.manifest
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.application
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\hello\Downloads\Computer shop manage ment\Final\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PointOfSale.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.PointOfSale.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.SalesManager.resources
+E:\Personal\CSharap tut\ComputerShopInventory\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
